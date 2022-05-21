@@ -1,0 +1,14 @@
+/* Site Background */
+
+body {
+    background-color: bisque;
+    font-family:monospace;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    font-size: 15px;
+}
